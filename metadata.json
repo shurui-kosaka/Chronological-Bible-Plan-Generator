@@ -1,0 +1,5 @@
+{
+  "name": "Chronological Bible Plan Generator",
+  "description": "Generate a customized chronological Bible reading plan and export it to Excel. Features interactive tracking and personalized start dates.",
+  "requestFramePermissions": []
+}
